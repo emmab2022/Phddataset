@@ -9996,11 +9996,11 @@ PTR,N1G,M,4,W,NP,PT,D,S
 PTR,N1G,M,4,W,NP,PT,D,S
 PTR,N1G,M,4,M,NP,PT,D,S
 PTR,N1G,M,4,W,NP,PT,D,S
-PTR,N1G,F,  3 4 ,W,P,FT,C,S
-PTR,1G,F,  3 4 ,B,P,FT,C,S
-PTR,1G,F,  3 4 ,B,P,FT,B,S
-PTR,1G,F,  3 4 ,W,P,FT,A,S
-PTR,1G,F,  3 4 ,W,P,FT,A,S
+PTR,N1G,F,4,W,P,FT,C,S
+PTR,1G,F,4,B,P,FT,C,S
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
